@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henri-dpd, a computer scientist student
+- 👋 Hi, I’m @henri-dpd, a computer science student
 - 👀 I’m interested in blockchain development, data science, artificial intelligence and machine learning
 - 🌱 I’m currently learning abaut blockchain
 - 💞️ I’m looking to collaborate on blockchain proyects
